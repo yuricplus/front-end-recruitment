@@ -21,3 +21,36 @@ The data we provide is a static JSON file under `/public/data`.
 * Persist data on page reload;
 * Test your code;
 * Instructions on how to build/run the project.
+
+
+## How run the project
+* cd app and run this comands 
+
+# In app project
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+### Run test
+```
+npm test
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
